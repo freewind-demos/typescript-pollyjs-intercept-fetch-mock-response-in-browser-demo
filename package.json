@@ -5,7 +5,7 @@
   "dependencies": {
     "@pollyjs/adapter-xhr": "2.4.0",
     "@pollyjs/core": "2.4.0",
-    "jquery": "3.4.1"
+    "jquery": "3.5.0"
   },
   "devDependencies": {
     "@pollyjs/adapter-fetch": "2.4.0",
